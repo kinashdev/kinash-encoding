@@ -1,4 +1,4 @@
-# Kinash Encoding
+# Kinash Encoding [![BCH compliance](https://bettercodehub.com/edge/badge/kinashdev/kinash-encoding?branch=master)](https://bettercodehub.com/)
 Crifra para Python 3.6
 
 ## Como Usar:
